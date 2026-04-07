@@ -61,21 +61,6 @@ OpenCV menggunakan format warna **BGR (Blue, Green, Red)**.
 
 ---
 
-## 📂 Struktur Project
-
-
-Tugas-Individu-7-ML/
-│
-├── Python_Individu7.ipynb
-├── results/
-│ └── saved_lena.jpg
-├── videos/
-│ └── video.mp4
-└── README.md
-
-
----
-
 ## 🚀 Cara Menjalankan Project
 
 1. Install Python
@@ -100,7 +85,7 @@ Python_Individu7.ipynb
 
 ---
 
-## 🎥 Video Tutorial
+## 🎥 Video Presentasi
 
 Tutorial lengkap dapat ditonton di YouTube:
 
